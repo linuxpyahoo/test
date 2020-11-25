@@ -1,3 +1,5 @@
 kleiner test
 
 und nun im zweiten branch
+
+mal schauen ob der gradle test nun durchläuft
